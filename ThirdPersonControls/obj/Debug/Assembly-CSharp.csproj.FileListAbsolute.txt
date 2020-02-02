@@ -1,0 +1,2 @@
+C:\Users\steph\Google Drive\Current Work\Third Person Controls\Original Unity Project\ThirdPersonControls\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\steph\Google Drive\Current Work\Third Person Controls\Original Unity Project\ThirdPersonControls\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
